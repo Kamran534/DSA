@@ -1,5 +1,18 @@
 # Data Structures and Algorithms (DSA) Course Outline
 
+## 📚 Course Navigation
+
+<div align="center">
+
+### Course Sections
+
+| [📖 README](README.md) | [📅 Week 1](weak1.md) 
+
+<!-- | [📅 Week 2](week2.md) | [📅 Week 3](week3.md) | [📅 Week 4](week4.md) | -->
+<!-- |:---:|:---:|:---:|:---:|:---:| -->
+
+</div>
+
 ## Course Overview
 **Duration:** 12-16 weeks (3-4 months)  
 **Level:** Beginner to Advanced  
